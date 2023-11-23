@@ -3,6 +3,7 @@
      <h1 id="titulo" >Modelos Astronomicos</h1>
     
    ![Heliocentrismo x geocentrismo-min](https://github.com/ComiKetoy/fisicaaa/assets/148079444/f4ef159b-e041-45da-b47c-be90bd8ab07f)
+   
 <head>   
 </div>
     <meta charset="UTF-8">
