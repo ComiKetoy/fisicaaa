@@ -14,13 +14,13 @@
         sistema solar, e as posiçoes de cada um neste modelo astronomico,
         o primeiro modelo astronomico foi criado primeiramente por claudio pitolomeu em (100-170 d.c)
        
-    o primeiro modelo astronomico tinha como base a terra no centro de todo o sistema solar
+    class="texto"> o primeiro modelo astronomico tinha como base a terra no centro de todo o sistema solar
     e este modelo é conhecido como modelo geocentrico e foi ultilizado por varias decadas ate o novo modelo abaixo. 
-    
-<div align="center">
+    <div align="center">
+
 <img src="![download](https://github.com/ComiKetoy/fisicaaa/assets/148079444/d0fd3377-6481-49ff-829c-cca5a2cdd073)" width="700px" />
 </div>
-    
+
     agora sobre o modelo heliocentrico ele é usado até os dias de hoje como modelo padrão do nosso sistema solar,
         o modelo dele se baseia no sol sendo o centro do universo ao inves da terra como apresentado no modelo anterior
 
