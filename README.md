@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
+<head> 
+    <div align="center">
+<img src="" width="700px" />
+</div>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="MODELOS ASTRONOMICOS".jpg">
     <h1 id="titulo" >Modelos Astronomicos</h1>
       <!-- este é comentario, no html. Não usa barra//-->
     <p class="texto">Modelos astronomicos são os modelos dos planetas e do sol no nosso
