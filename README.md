@@ -17,10 +17,16 @@
     o primeiro modelo astronomico tinha como base a terra no centro de todo o sistema solar
     e este modelo é conhecido como modelo geocentrico e foi ultilizado por varias decadas ate o novo modelo abaixo. 
     
-
+<div align="center">
+<img src="![download](https://github.com/ComiKetoy/fisicaaa/assets/148079444/d0fd3377-6481-49ff-829c-cca5a2cdd073)" width="700px" />
+</div>
     
     agora sobre o modelo heliocentrico ele é usado até os dias de hoje como modelo padrão do nosso sistema solar,
-        o modelo dele se baseia no sol sendo o centro do universo ao inves da terra como apresentado no modelo anterior .</p>
+        o modelo dele se baseia no sol sendo o centro do universo ao inves da terra como apresentado no modelo anterior
+
+        <div align="center">
+<img src="![download (1)](https://github.com/ComiKetoy/fisicaaa/assets/148079444/e6b63b2e-45eb-4e02-898b-ce4fe223d081)" width="700px" />
+</div>
 
         ALGUMAS CONTRIBUICOES IMPORTANTES DE PESSOAS PARA O MODELO HELIOCENTRICO
         Giordano Bruno
