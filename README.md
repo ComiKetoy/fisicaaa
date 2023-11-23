@@ -16,11 +16,11 @@
        
     o primeiro modelo astronomico tinha como base a terra no centro de todo o sistema solar
     e este modelo é conhecido como modelo geocentrico e foi ultilizado por varias decadas ate o novo modelo abaixo. 
+
+    
     agora sobre o modelo heliocentrico ele é usado até os dias de hoje como modelo padrão do nosso sistema solar,
         o modelo dele se baseia no sol sendo o centro do universo ao inves da terra como apresentado no modelo anterior .</p>
 
-        ALGUMAS CONTRIBUICOES IMPORTANTES DE PESSOAS PARA O MODELO HELIOCENTRICO</br>
-        Giordano Bruno</br>
-        wilian hersel</br>
-        </br>
-        </br>
+        ALGUMAS CONTRIBUICOES IMPORTANTES DE PESSOAS PARA O MODELO HELIOCENTRICO
+        Giordano Bruno
+        wilian hersel
