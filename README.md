@@ -16,6 +16,7 @@
        
     o primeiro modelo astronomico tinha como base a terra no centro de todo o sistema solar
     e este modelo é conhecido como modelo geocentrico e foi ultilizado por varias decadas ate o novo modelo abaixo. 
+    
 
     
     agora sobre o modelo heliocentrico ele é usado até os dias de hoje como modelo padrão do nosso sistema solar,
